@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="muhammadzain2005" | Instagram" width="22px" src="https://camo.githubusercontent.com/8ea1156d8ac160172cbef7a54a19bad16a73ebe4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" />][Muhammad Zain]
+[<img align="left" alt="MuhammadZain2005 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
 ### Languages and Tools:
