@@ -21,12 +21,9 @@
 
 <br />
 
-</details>
-
-<details>
 
 [![Muhammad Zain's github stats](https://github-readme-stats.vercel.app/api?username=muhammadzain2005)](https://github.com/muhammadzain2005/github-readme-stats)
-</details>
+
 
 
 [instagram]: https://instagram.com/muhammadzain2005
