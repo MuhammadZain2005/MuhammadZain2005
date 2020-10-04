@@ -24,8 +24,8 @@
 </details>
 
 <details>
-<summary>:zap: GitHub Stats</summary>
-[Muhammad Zain's github stats](https://github-readme-stats.vercel.app/api?username=MuhammadZain2005&show_icons=true)
+
+<img align="center" src="https://camo.githubusercontent.com/1fdc5adb43e64ae5d21b33bfc754340e954d3e22/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616c69616c626f61696e696e39362673686f775f69636f6e733d74727565" alt="MuhammadZain2005" data-canonical-src="https://github-readme-stats.vercel.app/api?username=muhammadzain2005&amp;show_icons=true" style="max-width:100%;">
 
 </details>
 
