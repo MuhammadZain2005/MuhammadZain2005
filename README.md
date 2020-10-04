@@ -24,9 +24,8 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
 
-![Muhammad Zain's github stats](https://github-readme-stats.vercel.app/api?username=MuhammadZain2005&show_icons=true)
+[Muhammad Zain's github stats](https://github-readme-stats.vercel.app/api?username=MuhammadZain2005&show_icons=true)
 
 </details>
 
