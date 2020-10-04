@@ -32,7 +32,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Muhammad Zain's GitHub Stats" src="https://github-readme-stats.muhammadzain2005.vercel.app/api?username=MuhammadZain2005&show_icons=true&hide_border=true" />
+ [![Muhammad Zain's github stats](https://github-readme-stats.vercel.app/api?username=MuhammadZain2005)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
