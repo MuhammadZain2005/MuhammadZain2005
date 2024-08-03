@@ -1,18 +1,17 @@
 ### Hi there, I'm Muhammad Zain👋
 
 
-## I'm a Student!!
+## I'm a Undergraduate Student
 
-- 🔭 I just launched my area calculator
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Starting making basic python programs
+- 🌱 I’m currently learning python and basic AI/Neural Networks
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Add more repos on GitHub
-- ⚡ Fun fact: I love to draw and listen to music
+- 🥅 2024 Goals: Add more repos on GitHub and start working on small projects
 
 
 ### Connect with me:
 
-[<img align="left" alt="MuhammadZain2005 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MuhammadZain2005 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 ### Languages and Tools:
@@ -21,9 +20,8 @@
 
 <br />
 
-
 [![Muhammad Zain's github stats](https://github-readme-stats.vercel.app/api?username=muhammadzain2005)](https://github.com/muhammadzain2005/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005)](https://github.com/MuhammadZain2005/github-readme-stats)
 
-[instagram]: https://instagram.com/muhammadzain2005
+[linkedin]: https://www.linkedin.com/in/muhammad-zain-asad-94316b286/
