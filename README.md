@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="MuhammadZain2005 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Muhammad Zain | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 <br />
 
 ### Languages and Tools:
