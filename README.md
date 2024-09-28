@@ -3,10 +3,7 @@
 
 ## I'm a Undergraduate Student
 
-- 🔭 Starting making basic python programs
 - 🌱 I’m currently learning python and basic AI/Neural Networks
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Add more repos on GitHub and start working on small projects
 
 
 ### Connect with me:
