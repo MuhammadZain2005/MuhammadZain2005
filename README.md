@@ -1,4 +1,4 @@
-# Muhammad Zain Asad - GitHub Profile
+# Muhammad Zain Asad
 
 ## 👋 Welcome to My Profile!
 
