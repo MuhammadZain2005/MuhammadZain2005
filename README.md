@@ -17,7 +17,7 @@ Hey there! I'm Muhammad Zain, a Computer Science student specializing in Artific
 
 ## 📊 Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005&layout=compact&theme=radical&langs_count=8)
 
 ## 🚀 Notable Projects
 
