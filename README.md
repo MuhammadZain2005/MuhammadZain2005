@@ -34,7 +34,7 @@ Machine Learning • Deep Learning • Computer Vision • AI Research
 
 <!-- ====== ABOUT ====== -->
 ### Hey there — I'm **Muhammad Zain Asad**, a Computer Science student specializing in **Artificial Intelligence** at the University of Alberta.  
-# I build intelligent systems that *learn, adapt, and scale* — from Graph Neural Networks for material science to end-to-end AI applications.
+### I build intelligent systems that *learn, adapt, and scale* — from Graph Neural Networks for material science to end-to-end AI applications.
 ---
 
 <!-- ====== TECH STACK ====== -->
