@@ -6,9 +6,10 @@
 Computer Science & Artificial Intelligence Student  
 Machine Learning • Deep Learning • Computer Vision • AI Research  
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MuhammadZain2005&style=flat-square&color=555)](#)
-[![Followers](https://img.shields.io/github/followers/MuhammadZain2005?style=flat-square&color=555)](#)
-[![Stars](https://img.shields.io/github/stars/MuhammadZain2005?affiliations=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&style=flat-square&color=555)](#)
+<!-- Badges (use full hex colors) -->
+[![Profile Views](https://komarev.com/ghpvc/?username=MuhammadZain2005&style=flat-square&color=6d6d6d)](#)
+![Followers](https://img.shields.io/github/followers/MuhammadZain2005?style=flat-square&color=6d6d6d&labelColor=30363d)
+![Stars](https://img.shields.io/github/stars/MuhammadZain2005?affiliations=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&style=flat-square&color=6d6d6d&labelColor=30363d)
 
 </div>
 
@@ -32,37 +33,37 @@ I build intelligent systems that *learn, adapt, and scale* — from Graph Neural
 
 ---
 
-<!-- ====== STATS SECTION ====== -->
+<!-- ====== STATS + LANG (SIDE BY SIDE) ====== -->
 <div align="center">
 
-<!-- ====== STATS + LANG (SIDE BY SIDE) ====== -->
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
 
-      <!-- Overall GitHub Stats -->
+      <!-- Overall GitHub Stats (dark-first) -->
       <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=MuhammadZain2005&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&hide_title=true" media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api?username=MuhammadZain2005&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&theme=default&hide_title=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img alt="GitHub stats" height="165"
-             src="https://github-readme-stats.vercel.app/api?username=MuhammadZain2005&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
+        <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadZain2005&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
       </picture>
 
     </td>
     <td width="50%" valign="top" align="center">
 
-      <!-- Top Languages -->
+      <!-- Top Languages (compact, dark-first) -->
       <picture>
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005&layout=compact&langs_count=8&size_weight=0.55&count_weight=0.45&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005&layout=compact&langs_count=8&size_weight=0.55&count_weight=0.45&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img alt="Top languages" height="165"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005&layout=compact&langs_count=8&size_weight=0.55&count_weight=0.45&hide_border=true" />
+        <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005&layout=compact&langs_count=8&size_weight=0.55&count_weight=0.45&hide_border=true" />
       </picture>
 
     </td>
   </tr>
 </table>
 
+</div>
+
+---
 
 <!-- ====== CONTACT ====== -->
 <div align="center">
@@ -73,7 +74,7 @@ I build intelligent systems that *learn, adapt, and scale* — from Graph Neural
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:masad4@ualberta.ca">
-  <img alt="Email" src="https://img.shields.io/badge/Email-555?style=flat-square&logo=gmail&logoColor=white">
+  <img alt="Email" src="https://img.shields.io/badge/Email-6d6d6d?style=flat-square&logo=gmail&logoColor=white&labelColor=30363d">
 </a>
 
 </div>
