@@ -35,25 +35,34 @@ I build intelligent systems that *learn, adapt, and scale* — from Graph Neural
 <!-- ====== STATS SECTION ====== -->
 <div align="center">
 
-<!-- GitHub Stats (Minimal, Dark-first) -->
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=MuhammadZain2005&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&hide_title=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=MuhammadZain2005&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&theme=default&hide_title=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MuhammadZain2005&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
-</picture>
+<!-- ====== STATS + LANG (SIDE BY SIDE) ====== -->
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
 
-<br>
+      <!-- Overall GitHub Stats -->
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api?username=MuhammadZain2005&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&hide_title=true" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=MuhammadZain2005&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&theme=default&hide_title=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img alt="GitHub stats" height="165"
+             src="https://github-readme-stats.vercel.app/api?username=MuhammadZain2005&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
+      </picture>
 
-<!-- Top Languages (Dark-first, Compact) -->
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005&layout=compact&langs_count=8&size_weight=0.55&count_weight=0.45&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005&layout=compact&langs_count=8&size_weight=0.55&count_weight=0.45&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005&layout=compact&langs_count=8&size_weight=0.55&count_weight=0.45&hide_border=true" />
-</picture>
+    </td>
+    <td width="50%" valign="top" align="center">
 
-</div>
+      <!-- Top Languages -->
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005&layout=compact&langs_count=8&size_weight=0.55&count_weight=0.45&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005&layout=compact&langs_count=8&size_weight=0.55&count_weight=0.45&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img alt="Top languages" height="165"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005&layout=compact&langs_count=8&size_weight=0.55&count_weight=0.45&hide_border=true" />
+      </picture>
 
----
+    </td>
+  </tr>
+</table>
+
 
 <!-- ====== CONTACT ====== -->
 <div align="center">
