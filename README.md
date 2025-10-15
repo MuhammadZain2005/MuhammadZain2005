@@ -7,9 +7,19 @@ Computer Science & Artificial Intelligence Student
 Machine Learning • Deep Learning • Computer Vision • AI Research  
 
 <!-- Badges (use full hex colors) -->
-[![Profile Views](https://komarev.com/ghpvc/?username=MuhammadZain2005&style=flat-square&color=6d6d6d)](#)
-![Followers](https://img.shields.io/github/followers/MuhammadZain2005?style=flat-square&color=6d6d6d&labelColor=30363d)
-![Stars](https://img.shields.io/github/stars/MuhammadZain2005?affiliations=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&style=flat-square&color=6d6d6d&labelColor=30363d)
+<div align="center">
+
+### 📫 Connect With Me
+
+<a href="https://www.linkedin.com/in/muhammadzainasad/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:masad4@ualberta.ca">
+  <img alt="Email" src="https://img.shields.io/badge/Email-6d6d6d?style=flat-square&logo=gmail&logoColor=white&labelColor=30363d">
+</a>
+
+</div>
+
 
 </div>
 
@@ -64,14 +74,9 @@ I build intelligent systems that *learn, adapt, and scale* — from Graph Neural
 <!-- ====== CONTACT ====== -->
 <div align="center">
 
-### 📫 Connect With Me
-
-<a href="https://www.linkedin.com/in/muhammadzainasad/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:masad4@ualberta.ca">
-  <img alt="Email" src="https://img.shields.io/badge/Email-6d6d6d?style=flat-square&logo=gmail&logoColor=white&labelColor=30363d">
-</a>
+[![Profile Views](https://komarev.com/ghpvc/?username=MuhammadZain2005&style=flat-square&color=6d6d6d)](#)
+![Followers](https://img.shields.io/github/followers/MuhammadZain2005?style=flat-square&color=6d6d6d&labelColor=30363d)
+![Stars](https://img.shields.io/github/stars/MuhammadZain2005?affiliations=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&style=flat-square&color=6d6d6d&labelColor=30363d)
 
 </div>
 
