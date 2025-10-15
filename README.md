@@ -34,34 +34,30 @@ I build intelligent systems that *learn, adapt, and scale* — from Graph Neural
 ---
 
 <!-- ====== STATS + LANG (SIDE BY SIDE) ====== -->
+<!-- ====== STATS + LANG (SIDE BY SIDE) ====== -->
 <div align="center">
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
-
-      <!-- Overall GitHub Stats (dark-first) -->
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=MuhammadZain2005&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&hide_title=true" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=MuhammadZain2005&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&theme=default&hide_title=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadZain2005&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
-      </picture>
-
+    <td align="center" width="50%" valign="top">
+      <img
+        alt="GitHub stats"
+        height="165"
+        src="https://github-readme-stats.vercel.app/api?username=MuhammadZain2005&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&hide_title=true"
+      />
     </td>
-    <td width="50%" valign="top" align="center">
-
-      <!-- Top Languages (compact, dark-first) -->
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005&layout=compact&langs_count=8&size_weight=0.55&count_weight=0.45&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005&layout=compact&langs_count=8&size_weight=0.55&count_weight=0.45&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005&layout=compact&langs_count=8&size_weight=0.55&count_weight=0.45&hide_border=true" />
-      </picture>
-
+    <td align="center" width="50%" valign="top">
+      <img
+        alt="Top languages"
+        height="165"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005&layout=compact&langs_count=8&size_weight=0.55&count_weight=0.45&theme=github_dark&hide_border=true"
+      />
     </td>
   </tr>
 </table>
 
 </div>
+
 
 ---
 
