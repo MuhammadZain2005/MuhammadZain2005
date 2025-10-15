@@ -11,12 +11,19 @@ Machine Learning • Deep Learning • Computer Vision • AI Research
 
 ### 📫 Connect With Me
 
-<a href="https://www.linkedin.com/in/muhammadzainasad/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:masad4@ualberta.ca">
-  <img alt="Email" src="https://img.shields.io/badge/Email-6d6d6d?style=flat-square&logo=gmail&logoColor=white&labelColor=30363d">
-</a>
+<!-- ====== SOCIAL BUTTONS ====== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammadzainasad/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:masad4@ualberta.ca">
+    <img alt="Email" src="https://img.shields.io/badge/Email-6d6d6d?style=flat-square&logo=gmail&logoColor=white&labelColor=30363d">
+  </a>
+  <a href="https://www.muhzain.me/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6d6d6d?style=flat-square&logo=googlechrome&logoColor=white&labelColor=30363d">
+  </a>
+</p>
+
 
 </div>
 
